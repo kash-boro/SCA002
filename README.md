@@ -64,36 +64,6 @@ A machine learning-based recommendation system that matches job seekers with sui
 
 ---
 
-## Repository Structure
-
-```
-├── House-Price-Prediction/
-│   ├── dataset/
-│   ├── notebooks/
-│   ├── models/
-│   ├── app.py
-│   └── README.md
-│
-├── Customer-Churn-Prediction/
-│   ├── dataset/
-│   ├── notebooks/
-│   ├── models/
-│   ├── app.py
-│   └── README.md
-│
-├── Job-Finder-Recommendation/
-│   ├── dataset/
-│   ├── notebooks/
-│   ├── models/
-│   ├── app.py
-│   └── README.md
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Installation
 
 Clone the repository:
